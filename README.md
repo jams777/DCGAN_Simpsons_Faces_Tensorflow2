@@ -7,7 +7,7 @@ Reimplemented [Greg](https://github.com/gsurma)'s image generator as tensorflow2
 [Greg](https://github.com/gsurma)'s image generator can be found [here](https://github.com/gsurma/image_generator). <br>
 The reimplementation used [Greg](https://github.com/gsurma)'s hyperparameters and datasets. <br>
 
-<h3 align="center">
+<h3 align="left">
   <img src="assets/jams777_study_dcgan_simsons.png" width="600">
 </h3>
  
