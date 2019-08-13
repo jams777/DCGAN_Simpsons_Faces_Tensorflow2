@@ -8,7 +8,7 @@ Reimplemented [Greg](https://github.com/gsurma)'s image generator as tensorflow2
 The reimplementation used [Greg](https://github.com/gsurma)'s hyperparameters and datasets. <br>
 
 <h3 align="center">
-  <img src="assets/image_generator_icon_web.png" width="300">
+  <img src="assets/jams777_study_dcgan_simsons.png" width="600">
 </h3>
  
 # Simpsons Faces Image Generator
